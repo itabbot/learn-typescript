@@ -1,0 +1,15 @@
+{
+  "name": "simplest-nodejs-app",
+  "version": "1.0.0",
+  "description": "TypeScript：最简单的 Node.js 应用",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.1.3"
+  }
+}
